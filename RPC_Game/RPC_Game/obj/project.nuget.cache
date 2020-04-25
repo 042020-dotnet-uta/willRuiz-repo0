@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7sRy63Ik1jl9Wj4nyLuhhjjqDvEhzkt2r0YWYDwMpFskWCqWl7/RNEWAzFpbD/IJ4F5s0ZnuT1cZfv1DMSO0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gungnir\\source\\repos\\RPC_Game\\RPC_Game\\RPC_Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.logging\\3.1.3\\microsoft.extensions.logging.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.3\\microsoft.extensions.logging.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.3\\microsoft.extensions.logging.console.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.3\\microsoft.extensions.options.configurationextensions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Gungnir\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
