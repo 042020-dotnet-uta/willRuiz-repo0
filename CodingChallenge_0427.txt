@@ -1,0 +1,33 @@
+Problem statement:
+Print all the numbers starting from 1 to 100.  
+When the number is multiple of three, print “sweet” instead of a number on the console.  
+If the number if a multiple of five then print “salty” on the console.  
+For numbers which are multiples of three and five, print “sweet’nSalty” on the console.  
+At the end, tell how many sweet’s, how many salty’s, and how many sweet’nSalty’s 
+
+Solution:
+**********************************************************
+static void Main(string[] args)
+        {
+            int sweet = 0;
+            int salty = 0; 
+            int sweetAndSalty=0;
+
+            for (int i = 1; i < 101; i++) { 	//1-100
+
+                //multiples of three and five
+                if (i % 3 == 0 && i % 5 == 0) { Console.WriteLine("sweet’nSalty"); sweetAndSalty++; }
+
+                //multiple of five
+                else if (i % 3 == 0) { Console.WriteLine("sweet"); sweet++; }
+
+                //multiple of five
+                else if (i % 5 == 0) { Console.WriteLine("salty"); salty++; }
+
+                //Prints a number if none of the above conditions met
+                else Console.WriteLine(i);
+            }
+            Console.WriteLine($"There are {sweet} sweet, {salty} salty and {sweetAndSalty} sweet’nSalty");
+
+            Console.Read();
+        }
