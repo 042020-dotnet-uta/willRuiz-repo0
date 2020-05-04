@@ -8,6 +8,8 @@ namespace RPC_Game
     {
         public string name;
         public int wins;
+
+        public Player() { }
         public Player(string name) 
         {
             this.name = name;

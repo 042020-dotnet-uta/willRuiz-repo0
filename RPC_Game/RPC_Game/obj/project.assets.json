@@ -356,11 +356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gungnir\\source\\repos\\RPC_Game\\RPC_Game\\RPC_Game.csproj",
+      "projectUniqueName": "C:\\Users\\Gungnir\\Desktop\\RevRepo\\willRuiz-repo0\\RPC_Game\\RPC_Game\\RPC_Game.csproj",
       "projectName": "RPC_Game",
-      "projectPath": "C:\\Users\\Gungnir\\source\\repos\\RPC_Game\\RPC_Game\\RPC_Game.csproj",
+      "projectPath": "C:\\Users\\Gungnir\\Desktop\\RevRepo\\willRuiz-repo0\\RPC_Game\\RPC_Game\\RPC_Game.csproj",
       "packagesPath": "C:\\Users\\Gungnir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gungnir\\source\\repos\\RPC_Game\\RPC_Game\\obj\\",
+      "outputPath": "C:\\Users\\Gungnir\\Desktop\\RevRepo\\willRuiz-repo0\\RPC_Game\\RPC_Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gungnir\\AppData\\Roaming\\NuGet\\NuGet.Config",
