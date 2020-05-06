@@ -1,0 +1,13 @@
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.exe
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.deps.json
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.runtimeconfig.json
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.runtimeconfig.dev.json
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.dll
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\bin\Debug\netcoreapp3.1\CodingChallenge2.pdb
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.csprojAssemblyReference.cache
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.AssemblyInfoInputs.cache
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.AssemblyInfo.cs
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.dll
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.pdb
+C:\Users\Gungnir\source\repos\CodingChallenge2\CodingChallenge2\obj\Debug\netcoreapp3.1\CodingChallenge2.genruntimeconfig.cache
