@@ -14,8 +14,8 @@ stages:
     jobs:
       - job: 'build'
         steps:
-          - script: dotnet build 'willRuiz-repo0/P0/P0.sln'
-      - job: 'publish'
+          - script: dotnet build 'P0/P0.sln'
+#      - job: 'publish'
 
 
 
