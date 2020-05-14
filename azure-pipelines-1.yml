@@ -14,7 +14,7 @@ stages:
     jobs:
       - job: 'build'
         steps:
-          - script: dotnet build 'P0/P0.sln'
+          - script: dotnet build 'P0/StoreApp.csproj'
 #      - job: 'publish'
 
 
